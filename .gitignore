@@ -1,0 +1,29 @@
+# Local catalog, annotations and previews
+data/
+previews/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+
+# Artwork is never part of this repository
+*.clip
+*.CLIP
+*.cmc
+*.CMC
+
+# Python and editor state
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# Temporary test files and distribution archives
+tests/tmp*/
+*.zip
