@@ -1,0 +1,2 @@
+# ClipShelf
+clipファイルの管理
